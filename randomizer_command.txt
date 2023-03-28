@@ -1,0 +1,3 @@
+#This command was used in each 'year' folder from 2011 up to and including 2020. This first use would provide us with 3 months to take files from. After this we ran the command again in each of the indicated 'month' files to gather 3 random files to extract data from.
+
+ls | shuf -n 3
